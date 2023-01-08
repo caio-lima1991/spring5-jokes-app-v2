@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootChuckNorrisApplication<spring-boot-chuck-norris>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "guru.springframework.springbootchucknorris.SpringBootChuckNorrisApplication",
+            "projectName": "spring-boot-chuck-norris",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
